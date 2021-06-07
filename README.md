@@ -2,10 +2,10 @@
 
 Je suis  ***_RAYANE GUELAI_***
 
-### _Se que je maitrise_
+#### _Ce que je maitrise_
 css html python3 
 
-Pour me presenter :
+#### _Pour me presenter_ :
 
 - Je commance une formation de testeur logiciele 👩‍💻
 
@@ -29,9 +29,6 @@ Pour me presenter :
 
 @mail:rayaneguelai@gmail.com
 
-
-
-- 📫 Comment me contacter: @rayaneguelai@gmail.com
 ### Mon twitch
 Si tu t'ennuie passe par la [https://www.twitch.tv/albafrezze](https://www.twitch.tv/albafrezze)
 
