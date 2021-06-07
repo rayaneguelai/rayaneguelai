@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 ### Mon twitch
 Si tu t'ennuie passe par la [https://www.twitch.tv/albafrezze](https://www.twitch.tv/albafrezze)
 
-! [chevalier rayane guelai](https://github.com/rayaneguelai/rayaneguelai/blob/main/imageee.jpg)
+![chevalier rayane guelai](https://github.com/rayaneguelai/rayaneguelai/blob/main/imageee.jpg)
 
 
